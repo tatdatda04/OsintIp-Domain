@@ -4,9 +4,8 @@
 
 ## Contents
 
-- [Osint-Ip](#Osint-IP.md)
+- [Osint-Ip](#Osint--IP.md)
 
-- [Osint-Domain](#Osint-Domain.md)
-
-- 
+- [Osint-Domain](#Osint--Domain.md)
+ 
 
